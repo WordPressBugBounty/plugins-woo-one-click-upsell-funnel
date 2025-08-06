@@ -34,7 +34,7 @@ Our plugin is compatible with **Elementor**, **Divi**, **Themify**, **WP Bakery*
 Create unlimited upsell for woocommerce offers using the [**WooCommerce upsell plugin**](https://wpswings.com/product/one-click-upsell-funnel-for-woocommerce-pro/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=upsell-pro), and examine a track report for each sales funnel. Additionally, you may **import third party pre-made sales funnel templates** to easily set up and provide upsell for WooCommerce on your online store. 
 
 
-[**WooCommerce Upsell Demo**](https://demo.wpswings.com/one-click-upsell-funnel-for-woocommerce-pro/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=frontend-demo) |  [**Documentation**](https://docs.wpswings.com/one-click-upsell-funnel-for-woocommerce/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=upsell-doc) | [**Contact Us**](https://wpswings.com/contact-us/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=contactus)
+[**WooCommerce Upsell Demo**](https://demo.wpswings.com/upsell-order-bump-offer-for-woocommerce-pro/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=frontend-demo) |  [**Documentation**](https://docs.wpswings.com/one-click-upsell-funnel-for-woocommerce/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=upsell-doc) | [**Contact Us**](https://wpswings.com/contact-us/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=contactus)
 
 [youtube https://www.youtube.com/watch?v=S4fv2YwLxQk&rel=0]
 
@@ -55,7 +55,7 @@ The WooCommerce Upsell Funnel plugin allows you to create Order Bump Offers dire
 
 
 #### 4) Exit Intent Pop-Up: 
-Using the WooCommerce Upsell Plugin you can enable the [**pop-up on exit intent feature**](https://docs.wpswings.com/one-click-upsell-funnel-for-woocommerce/#pop-up-on-exit-intent-2), allowing you to show a pop-up on upsell offer pages when a customer tries to exit the browser, this can be an ultimate upselling hack for your business.
+Using the WooCommerce Upsell Plugin you can enable the pop-up on exit intent feature, allowing you to show a pop-up on upsell offer pages when a customer tries to exit the browser, this can be an ultimate upselling hack for your business.
 
 
 #### 5) Unlimited Funnels with an Unlimited Number of Offers: 
@@ -108,9 +108,9 @@ Visit [**One Click Upsell Funnel for WooCommerce Documentation**](https://docs.w
 
 == LIVE DEMO OF ONE CLICK UPSELL FUNNEL PLUGIN  ==
 
-* [**One Click Upsell Funnel for WooCommerce Frontend Demo**](https://demo.wpswings.com/one-click-upsell-funnel-for-woocommerce-pro/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=upsell-frontend-demo)
+* [**One Click Upsell Funnel for WooCommerce Frontend Demo**](https://demo.wpswings.com/upsell-order-bump-offer-for-woocommerce-pro/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=upsell-frontend-demo)
 
-* [**One Click Upsell Funnel for WooCommerce Backend Demo**](https://demo.wpswings.com/one-click-upsell-funnel-for-woocommerce-pro/request-for-personal-demo/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=upsell-backend-demo)
+* [**One Click Upsell Funnel for WooCommerce Backend Demo**](https://demo.wpswings.com/upsell-order-bump-offer-for-woocommerce-pro/request-for-personal-demo/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=upsell-backend-demo)
 
 
 
@@ -371,7 +371,7 @@ Most of the major WordPress page builders like Elementor, WPBakery, Divibuilders
 
 = My Question is Not Listed. =
 
-Please visit [**WooCommerce Upsell Knowledge Base**](https://support.wpswings.com/wordpress-plugins-knowledge-base/category/one-click-upsell-funnel-for-woocommerce/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=upsell-kb)
+Please visit [**WooCommerce Upsell Knowledge Base**](https://support.wpswings.com/wordpress-plugins-knowledge-base/category/upsell-order-bump-offer-for-woocommerce/?utm_source=upsell-org-page&utm_medium=referral&utm_campaign=upsell-kb)
 
 == Changelog ==
 
